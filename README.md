@@ -48,7 +48,7 @@ You can support my work with a [donation](https://www.paypal.com/paypalme/epicbu
 Support the package: Please give it a &#11088; Star on GitHub and on the official
 Filament [plugin page](https://filamentphp.com/plugins/title-with-slug-permalink), if it's helpful for you.
 
-Visit the plugin's [Composer Packagist page](https://packagist.org/packages/motivo-zwolle/filament-title-with-slug) (The PHP Package Repository) for the current install count and more.
+Visit the plugin's [Composer Packagist page](https://packagist.org/packages/remihin/filament-title-with-slug) (The PHP Package Repository) for the current install count and more.
 
 ## Table of contents
 
@@ -82,7 +82,7 @@ Visit the plugin's [Composer Packagist page](https://packagist.org/packages/moti
 You can install the package via composer:
 
 ```bash
-composer require motivo/filament-title-with-slug
+composer require remihin/filament-title-with-slug
 ```
 
 If needed, you can publish the config file with:
