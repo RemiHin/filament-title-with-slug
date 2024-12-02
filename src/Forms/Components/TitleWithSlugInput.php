@@ -1,8 +1,8 @@
 <?php
 
-namespace Camya\Filament\Forms\Components;
+namespace RemiHin\Filament\Forms\Components;
 
-use Camya\Filament\Forms\Fields\SlugInput;
+use RemiHin\Filament\Forms\Fields\SlugInput;
 use Closure;
 use Filament\Forms\Components\Group;
 use Filament\Forms\Components\Hidden;

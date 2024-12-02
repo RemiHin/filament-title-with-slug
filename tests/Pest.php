@@ -1,5 +1,5 @@
 <?php
 
-use Camya\Filament\Tests\TestCase;
+use RemiHin\Filament\Tests\TestCase;
 
 uses(TestCase::class)->in(__DIR__);

@@ -1,6 +1,6 @@
 <?php
 
-namespace Camya\Filament;
+namespace RemiHin\Filament;
 
 use Filament\Support\Assets\Css;
 use Filament\Support\Facades\FilamentAsset;

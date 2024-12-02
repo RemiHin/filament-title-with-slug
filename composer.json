@@ -1,5 +1,5 @@
 {
-    "name": "motivo/filament-title-with-slug",
+    "name": "RemiHin/filament-title-with-slug",
     "description": "TitleWithSlugInput - Easy Permalink Slugs for the FilamentPHP Form Builder (PHP / Laravel / Livewire)",
     "keywords": [
         "framework",
@@ -11,7 +11,7 @@
         "alpinejs",
         "tailwindcss"
     ],
-    "homepage": "https://github.com/MotivoZwolle/filament-title-with-slug",
+    "homepage": "https://github.com/RemiHin/filament-title-with-slug",
     "license": "MIT",
     "authors": [
         {
@@ -46,12 +46,12 @@
             "src/helpers.php"
         ],
         "psr-4": {
-            "Camya\\Filament\\": "src"
+            "RemiHin\\Filament\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Camya\\Filament\\Tests\\": "tests"
+            "RemiHin\\Filament\\Tests\\": "tests"
         }
     },
     "scripts": {
@@ -73,7 +73,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Camya\\Filament\\FilamentTitleWithSlugServiceProvider"
+                "RemiHin\\Filament\\FilamentTitleWithSlugServiceProvider"
             ]
         }
     },

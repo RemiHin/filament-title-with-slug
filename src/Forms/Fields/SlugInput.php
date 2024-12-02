@@ -1,6 +1,6 @@
 <?php
 
-namespace Camya\Filament\Forms\Fields;
+namespace RemiHin\Filament\Forms\Fields;
 
 use Closure;
 use Filament\Forms\Components\TextInput;

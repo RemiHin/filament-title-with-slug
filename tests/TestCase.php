@@ -1,10 +1,10 @@
 <?php
 
-namespace Camya\Filament\Tests;
+namespace RemiHin\Filament\Tests;
 
 use BladeUI\Heroicons\BladeHeroiconsServiceProvider;
 use BladeUI\Icons\BladeIconsServiceProvider;
-use Camya\Filament\FilamentTitleWithSlugServiceProvider;
+use RemiHin\Filament\FilamentTitleWithSlugServiceProvider;
 use Filament\FilamentServiceProvider;
 use Filament\Forms\FormsServiceProvider;
 use Filament\Support\SupportServiceProvider;

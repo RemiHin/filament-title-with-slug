@@ -1,6 +1,6 @@
 <?php
 
-namespace Camya\Filament\Tests\Support;
+namespace RemiHin\Filament\Tests\Support;
 
 use Illuminate\Database\Eloquent\Factories\Factory;
 

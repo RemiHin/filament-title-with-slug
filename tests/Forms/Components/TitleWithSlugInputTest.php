@@ -1,8 +1,8 @@
 <?php
 
-use Camya\Filament\Forms\Components\TitleWithSlugInput;
-use Camya\Filament\Tests\Support\Record;
-use Camya\Filament\Tests\Support\TestableForm;
+use RemiHin\Filament\Forms\Components\TitleWithSlugInput;
+use RemiHin\Filament\Tests\Support\Record;
+use RemiHin\Filament\Tests\Support\TestableForm;
 use Illuminate\Database\Eloquent\Model;
 use Livewire\Livewire;
 
